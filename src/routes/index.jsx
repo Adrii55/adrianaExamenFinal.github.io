@@ -1,6 +1,6 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import { Iniciodanzas } from '..¿/pages/Iniciodanzas';
+import { Iniciodanzas } from '../pages/Iniciodanzas';
 import { Cards } from '../components/Cards';
 import { Bodymain } from '../components/Bodymain';
 
