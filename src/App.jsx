@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
-import { Header } from './components/header';
+import { Header } from './components/Header';
 import { AppRoutes } from './routes';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { BarraTitulo } from './components/BarraTitulo';
