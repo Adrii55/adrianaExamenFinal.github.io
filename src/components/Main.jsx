@@ -1,7 +1,8 @@
 import React from "react"
 
 
-export function Contenido(){
+export function Main
+(){
     return (
         <div>
             
