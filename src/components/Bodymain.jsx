@@ -1,7 +1,7 @@
 import React from "react"
 
 
-export function Main
+export function Bodymain
 (){
     return (
         <div>
