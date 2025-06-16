@@ -7,7 +7,7 @@ import {
 } from 'reactstrap';
 import { Link } from 'react-router-dom';
 
-export function Header() {
+export function Headerr() {
   return (
     <Navbar color="light" light expand="md" className="mb-4">
       <Container>
